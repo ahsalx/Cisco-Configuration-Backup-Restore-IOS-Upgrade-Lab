@@ -3,8 +3,7 @@
 
 This lab focuses on backing up and restoring running and startup configurations, understanding how they behave differently when restored from a TFTP server, and backing up and upgrading Cisco IOS images.
 
-
-topolgy.png
+![Network Topology](topology.png)
 
 1. When you restore a startup configuration from a TFTP server, is the existing configuration overwritten or merged?
 2. What happens when you restore a running configuration? Is it overwritten or merged with the existing configuration?
